@@ -166,6 +166,18 @@ O2 = "[#00FFFF]" # Biru Muda
 P2 = "[#FFFFFF]" # Putih
 J2 = "[#FF8F00]" # Jingga
 A2 = "[#AAAAAA]" # Abu-Abu
+
+#------------------[ LOGO-LAKNAT ]-----------------#
+logo =""" 
+\033[1;32m  _______  _        _______  _______          
+\033[1;32m (  ___  )| \    /\(  ___  )(  ____ \|\     /|
+\033[1;32m | (   ) ||  \  / /| (   ) || (    \/| )   ( |
+\033[1;32m | (___) ||  (_/ / | (___) || (_____ | (___) |
+\033[1;32m |  ___  ||   _ (  |  ___  |(_____  )|  ___  |
+\033[1;32m | (   ) ||  ( \ \ | (   ) |      ) || (   ) |
+\033[1;32m | )   ( ||  /  \ \| )   ( |/\____) || )   ( |
+\033[1;32m |/     \||_/    \/|/     \|\_______)|/     \|                                            
+                     
  
 #--------------------[ CONVERTER-BULAN ]--------------#
 
@@ -226,7 +238,7 @@ def meyexudi():
       print()
       pass
     else:
-      print('this tool is free just follow facbook and sms your key i will approved you 🥰😍')
+      print('logo')
       print(" \033[32;1m[+] Your Kay : "+id)
       print(' \x1b[38;5;208m╔══[𝟷] FREE USER  CAME INBOX')
       print(' \x1b[1;97m║══[𝟸] FREE-FIRE-TIK-TOK- ID CLONING')
